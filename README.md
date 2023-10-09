@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning how to trate my device gentely.
 - 👯 I’m looking to collaborate with other Aliens
 - 💬 Ask me about how to be like me..(:
-- 📫 How to reach me: https://twitter.com/6o9x_
+- 📫 How to reach me: [https://twitter.com/6o9x_](https://twitter.com/6o9x_)
 - 😄 Pronouns: AOA
 - ⚡ Fun fact: By mastering *01* you could role the whole world..
