@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**o6x9/o6x9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 Here is ABDULLAH OMAR ALI MURSHED 
 
 - 🔭 I’m currently working on being the best.
 - 🌱 I’m currently learning how to trate my device gentely.
