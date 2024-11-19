@@ -5,4 +5,6 @@
 - 💬 Ask me about how to be like me..(:
 - 📫 How to reach me: [https://twitter.com/6o9x_](https://twitter.com/6o9x_)
 - 😄 Pronouns: AOA
-- ⚡ Fun fact: By mastering *01* you could role the whole world..  
+- ⚡ Fun fact: By mastering *01* you could role the whole world..
+- ## My LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/6o9x_)
