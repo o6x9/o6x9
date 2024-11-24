@@ -8,8 +8,24 @@
 - ⚡ Fun fact: By mastering *01* you could role the whole world..
 - ## My LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/6o9x_)
-## My HackerRank Achievements
-- **Profile:** [HackerRank Username](https://www.hackerrank.com/6o9x_)
-- **Certifications:**
-  ![Problem Solving Badge](https://hrcdn.net/community-frontend/assets/problem-solving-344d70cd08.svg)
-  ![Python Badge](https://hrcdn.net/community-frontend/assets/python-5f2abefbda.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+# 👋 Hello, I'm Ayhab! 🚀
+![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Tech+Enthusiast;Lifelong+Learner)
+
+## 🔥 Stats & Achievements
+![Ayhab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![HackerRank Badge](https://hrcdn.net/community-frontend/assets/problem-solving-344d70cd08.svg)
+
+## 🛠 My Tech Stack
+![Python](https://img.shields.io/badge/-Python-blue) ![React](https://img.shields.io/badge/-React-green)
+
+## 🚀 Featured Projects
+- **[MAM Company](https://github.com/yourusername/MAM-Company):** A responsive marketing website.
+- **[Gold Market Tracker](https://github.com/yourusername/gold-market-tracker):** Real-time gold price tracker.
+
+## 📫 Let's Connect
+- **LinkedIn:** [Your Name](https://linkedin.com/in/yourusername)
+- **Email:** yourname@example.com
+
