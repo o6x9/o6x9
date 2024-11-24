@@ -13,17 +13,13 @@
 ## 🔥 Stats & Achievements
 ![LeetCode Stats](https://leetcard.jacoblin.cool/6o9x_)
 
-
-
 ## 🛠 My Tech Stack  
 ![C](https://img.shields.io/badge/-C-black) ![C++](https://img.shields.io/badge/-C++-blue) ![Python](https://img.shields.io/badge/-Python-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![SQL](https://img.shields.io/badge/-SQL-blue) ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![React](https://img.shields.io/badge/-React-green) ![React%20Native](https://img.shields.io/badge/-React%20Native-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Git](https://img.shields.io/badge/-Git-red) ![GitHub](https://img.shields.io/badge/-GitHub-black) ![Linux](https://img.shields.io/badge/-Linux-green)
-
 
 ## 🚀 Featured Projects
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/o6x9/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com](https://twitter.com/6o9x_)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://your-linkedin-link](https://www.linkedin.com/in/o6x9/))  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/6o9x_)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/6o9xv/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/6o9x_/profilecard/?igsh=MXIxeWgxMnZyc2toMQ==)
-
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/6o9x_/profilecard/?igsh=MXIxeWgxMnZyc2toMQ==)  
