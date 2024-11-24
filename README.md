@@ -12,7 +12,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/6o9x_)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=o6x9&color=blue)
 
 ## 🛠 My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-blue) ![React](https://img.shields.io/badge/-React-green)
