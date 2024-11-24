@@ -8,3 +8,8 @@
 - ⚡ Fun fact: By mastering *01* you could role the whole world..
 - ## My LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/6o9x_)
+## My HackerRank Achievements
+- **Profile:** [HackerRank Username](https://www.hackerrank.com/6o9x_)
+- **Certifications:**
+  ![Problem Solving Badge](https://hrcdn.net/community-frontend/assets/problem-solving-344d70cd08.svg)
+  ![Python Badge](https://hrcdn.net/community-frontend/assets/python-5f2abefbda.svg)
