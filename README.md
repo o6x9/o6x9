@@ -20,6 +20,8 @@
 
 ## 🛠 My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-blue) ![React](https://img.shields.io/badge/-React-green)
+            <i class="devicon-azuresqldatabase-plain"></i>
+          
 
 ## 🚀 Featured Projects
 - **[MAM Company](https://github.com/yourusername/MAM-Company):** A responsive marketing website.
