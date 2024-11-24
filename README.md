@@ -10,11 +10,11 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/6o9x_)
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-# 👋 Hello, I'm Ayhab! 🚀
-![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Tech+Enthusiast;Lifelong+Learner)
+# 👋 Hello, I'm ABDULLAH! 🚀
+![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Tech+Enthusiast;Full Stack Developer)
 
 ## 🔥 Stats & Achievements
-![Ayhab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=o6x9&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 ![HackerRank Badge](https://hrcdn.net/community-frontend/assets/problem-solving-344d70cd08.svg)
 
