@@ -19,22 +19,14 @@
 ![C](https://img.shields.io/badge/-C-black) ![C++](https://img.shields.io/badge/-C++-blue) ![Python](https://img.shields.io/badge/-Python-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![SQL](https://img.shields.io/badge/-SQL-blue) ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![React](https://img.shields.io/badge/-React-green) ![React%20Native](https://img.shields.io/badge/-React%20Native-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Git](https://img.shields.io/badge/-Git-red) ![GitHub](https://img.shields.io/badge/-GitHub-black) ![Linux](https://img.shields.io/badge/-Linux-green)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🚀 Featured Projects
 
 
 ## 📫 Let's Connect
 [https://twitter.com/6o9x_](https://twitter.com/6o9x_)
+## 📫 Let's Connect  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
+
